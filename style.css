@@ -1,0 +1,135 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f6f8;
+}
+
+/* === Cabeçalho === */
+header {
+  background: #2c3e50;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+/* === Navegação === */
+nav {
+  background: #34495e;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* === Conteúdo principal === */
+main {
+  padding: 20px;
+}
+
+/* === Cartão central === */
+.card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 40px auto;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  max-width: 400px;
+  text-align: center;
+}
+
+/* === Título do login === */
+.titulo-login {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+/* === Formulários e campos === */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form input[type="text"],
+form input[type="password"],
+form input[type="email"] {
+  width: 280px;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+form button,
+form input[type="submit"] {
+  width: 280px;
+  padding: 10px;
+  background-color: #2c3e50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+form button:hover,
+form input[type="submit"]:hover {
+  background-color: #1a252f;
+}
+
+/* === Mensagens de erro ou sucesso === */
+p.mensagem-erro {
+  color: red;
+  margin-top: 10px;
+}
+
+p.mensagem-sucesso {
+  color: green;
+  margin-top: 10px;
+}
+
+/* === Barra superior com botão de logout === */
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #2c3e50;
+  color: white;
+  padding: 10px 20px;
+}
+
+/* === Mensagem de boas-vindas centralizada === */
+.boas-vindas {
+  text-align: center;
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+/* === Botão de logout === */
+.logout-btn {
+  background-color: #e74c3c;
+  color: white;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.logout-btn:hover {
+  background-color: #c0392b;
+}
