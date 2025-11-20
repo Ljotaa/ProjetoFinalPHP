@@ -1,0 +1,12 @@
+{
+    "sofá 2 lugares": {
+        "quantidade": 1,
+        "valor": 650,
+        "imagem": "imagens\/sofa.jpg"
+    },
+    "mesa com 4 cadeiras": {
+        "quantidade": 7,
+        "valor": 750,
+        "imagem": "imagens\/imagem.jpg"
+    }
+}
