@@ -1,0 +1,37 @@
+{
+    "Armário de cozinha suspenso": {
+        "quantidade": 0,
+        "valor": 800,
+        "imagem": "imagens\/armário de cozinha suspenso.jpg"
+    },
+    "Armário 2 portas": {
+        "quantidade": 9,
+        "valor": 600,
+        "imagem": "imagens\/armário 2 portas.jpg"
+    },
+    "Sofá 2 lugares": {
+        "quantidade": 9,
+        "valor": 750,
+        "imagem": "imagens\/sofa.jpg"
+    },
+    "Rack para sala": {
+        "quantidade": 10,
+        "valor": 450,
+        "imagem": "imagens\/rack para sala.jpg"
+    },
+    "Mesa 4 cadeiras": {
+        "quantidade": 10,
+        "valor": 1500,
+        "imagem": "imagens\/mesa 4 cadeiras.jpg"
+    },
+    "Cadeira de madeira acolchoada": {
+        "quantidade": 9,
+        "valor": 250,
+        "imagem": "imagens\/cadeira de madeira acolchoda.jpg"
+    },
+    "Abajour de mesa ": {
+        "quantidade": 10,
+        "valor": 150,
+        "imagem": "imagens\/Abajour de mesa.jpg"
+    }
+}
