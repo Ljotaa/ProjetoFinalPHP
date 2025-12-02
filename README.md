@@ -11,4 +11,16 @@ Rafael Rodrigues Rocha (front-end)
 Evandro Silva de Sousa Filho (front-end)
 Luciano dos Santos Ferreira Junior (back-end e banco)
 Joao Victor Ferreira (banck-end)
-Obrigado a todos pelo convite de participar desse excelente projeto.
+
+
+
+
+
+
+
+Atualização final 01/12/2025
+
+
+O site já está pronto, o controle de estoque funciona perfeitamente, a página de login também, está 100% funcional.
+
+está funcionando também em uma hospedagem. https://jler.infinityfree.me/login/login.html?i=1
